@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<salesData>
+  <transaction type="cash">
+    <totalAmount>3.0</totalAmount>
+    <product>
+     <name>"Mountain Dew citrus soda - 1 liter bottle"</name>
+     <quantity>2</quantity>
+     <unitPrice>1.50 </unitPrice>
+    </product>
+  </transaction>
+  <transaction type="credit">
+    <totalAmount>7.76</totalAmount>
+    <product>
+     <name>"Nestle vanilla ice cream 6ct box"</name>
+     <quantity>2</quantity>
+     <unitPrice>3.88 </unitPrice>
+    </product>
+  </transaction>
+</salesData>
